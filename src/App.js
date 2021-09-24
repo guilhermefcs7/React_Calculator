@@ -27,7 +27,7 @@ const App = () => {
     <>
       <div className = 'container'>
         <form>
-          <input type = 'text' value = {result} />
+          <input type = 'text' value = {result} placeholder="0"/>
         </form>
 
         <div className = 'keypad'>

@@ -2,10 +2,10 @@
   font-family: "Poppins", sans-serif;
 }
 body {
+  background-color: #264653;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(to right, #a8c0ff, #3f2b96);
 }
 
 .container {
